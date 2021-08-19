@@ -1,6 +1,6 @@
 import unittest
 
-from get_length import get_length
+from chapter2.get_length import get_length
 
 
 class MyTestCase(unittest.TestCase):
